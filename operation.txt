@@ -1,0 +1,8 @@
+# manstuck
+manit
+mastuck software..tap install manstuck.apk
+accept terms and conditions
+wait for software to finish.
+create shortcut on home screen
+open software at launch
+exit at power button
